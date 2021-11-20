@@ -1,16 +1,9 @@
-title:              Hello, My name is Melvin John
-email:              melvinjohn44@gmail.com
-description:        description
-author:             Start Bootstrap
-#baseurl:            ""
+title:              Hello, my name is Melvin John
 url:                "https://melvinj98.github.io"
 
 # Social Profiles
-twitter_username:   
 github_username:    melvinj98
-facebook_username:  
-instagram_username:  
-linkedin_username:  Melvin John
+linkedin_username:  melvinj98
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -18,8 +11,8 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 # Build settings
 markdown:           kramdown
 remote_theme:       jekyll-theme-clean-blog
-paginate:           5
-paginate_path:      "/posts/page:num/"
+#paginate:           5
+#paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate

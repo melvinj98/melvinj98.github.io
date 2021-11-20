@@ -1,0 +1,9 @@
+I"£<h2 id="emotion-based-music-player">Emotion Based Music Player</h2>
+<p>A model was trained to detect an emotion when analyzing a face realtime. When an emotion is picked, it is then used to curate a playlist that is based upon this emotion. The playlist is created through the use of Spotify API.</p>
+
+<h2 id="automated-bill-submitter">Automated Bill Submitter</h2>
+<p>dfa</p>
+
+<h2 id="joji-website">Joji Website</h2>
+
+:ET
